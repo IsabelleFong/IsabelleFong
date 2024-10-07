@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Isabelle</h1>
 <h3 align="center">A Computer Science student from Malaysia</h3>
 
-- 🌱 I’m passionate about **web development, data analytics, artificial intelligence**, and **automation**
+- 🌱 I’m passionate about **Software Development** and **Artificial Intelligence**
 
 - 📫 How to reach me **isabellefoong17@gmail.com**
 
